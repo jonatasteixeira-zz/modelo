@@ -1,0 +1,4 @@
+/usr/include/X11/bitmaps/Left
+/usr/include/X11/bitmaps/Right
+/usr/include/X11/bitmaps/Up
+/usr/include/X11/bitmaps/Down

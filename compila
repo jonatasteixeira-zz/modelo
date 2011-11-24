@@ -1,0 +1,3 @@
+/usr/local/j2sdk1.4.2/bin/javac -encoding iso-8859-1 ima/Main.java ima/view/View.java ima/resourceBundle/I18n.java ima/conf/Configuration.java ima/action/Action.java ima/menu/Menu.java
+
+
